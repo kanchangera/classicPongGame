@@ -5,5 +5,5 @@ Classic Pong game in Python 3 which has right paddle, left paddle and 1 ball in 
 Player A: Use "w" for moving Paddle A upward.
           Use "s" for moving Paddle A downward.
 
-Player A: Use "Up" for moving Paddle A upward.
-          Use "Down" for moving Paddle A downward.
+Player B: Use "Up" for moving Paddle B upward.
+          Use "Down" for moving Paddle B downward.
